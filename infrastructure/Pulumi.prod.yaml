@@ -7,3 +7,5 @@ config:
   cst8918-a03-infra:memory: '2'
   cst8918-a03-infra:prefixName: 'cst8918-a03-edle0001'
   cst8918-a03-infra:imageTag: 'v0.2.0'
+  cst8918-a03-infra:weatherApiKey:
+    secure: AAABAGuXdSkonq7xPVjUQ/7N9oY7FcpG/U8dUoMr4VVU9NKYQ9Ckp46FbOg0Ehk6p4/Ey9+SxdPg70c4h71Z5Q==
